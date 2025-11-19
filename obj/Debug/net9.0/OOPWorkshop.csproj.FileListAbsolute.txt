@@ -1,0 +1,14 @@
+D:\Week4\OOPWorkshop\bin\Debug\net9.0\OOPWorkshop.exe
+D:\Week4\OOPWorkshop\bin\Debug\net9.0\OOPWorkshop.deps.json
+D:\Week4\OOPWorkshop\bin\Debug\net9.0\OOPWorkshop.runtimeconfig.json
+D:\Week4\OOPWorkshop\bin\Debug\net9.0\OOPWorkshop.dll
+D:\Week4\OOPWorkshop\bin\Debug\net9.0\OOPWorkshop.pdb
+D:\Week4\OOPWorkshop\obj\Debug\net9.0\OOPWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Week4\OOPWorkshop\obj\Debug\net9.0\OOPWorkshop.AssemblyInfoInputs.cache
+D:\Week4\OOPWorkshop\obj\Debug\net9.0\OOPWorkshop.AssemblyInfo.cs
+D:\Week4\OOPWorkshop\obj\Debug\net9.0\OOPWorkshop.csproj.CoreCompileInputs.cache
+D:\Week4\OOPWorkshop\obj\Debug\net9.0\OOPWorkshop.dll
+D:\Week4\OOPWorkshop\obj\Debug\net9.0\refint\OOPWorkshop.dll
+D:\Week4\OOPWorkshop\obj\Debug\net9.0\OOPWorkshop.pdb
+D:\Week4\OOPWorkshop\obj\Debug\net9.0\OOPWorkshop.genruntimeconfig.cache
+D:\Week4\OOPWorkshop\obj\Debug\net9.0\ref\OOPWorkshop.dll
